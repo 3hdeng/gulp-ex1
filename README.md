@@ -1,7 +1,10 @@
 # gulp usage
 $ cd gulp-ex1
+
 $ npm install
+
 $ npm run test
+
 $ ./node_modules/.bin/gulp example
 
 'example' task is defined within gulpfile.js 
